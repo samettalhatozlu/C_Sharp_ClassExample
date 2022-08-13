@@ -1,0 +1,8 @@
+C:\Users\Samet Talha\source\repos\Araba_Sinif_Ornegi\Araba_Sinif_Ornegi\bin\Debug\Araba_Sinif_Ornegi.exe.config
+C:\Users\Samet Talha\source\repos\Araba_Sinif_Ornegi\Araba_Sinif_Ornegi\bin\Debug\Araba_Sinif_Ornegi.exe
+C:\Users\Samet Talha\source\repos\Araba_Sinif_Ornegi\Araba_Sinif_Ornegi\bin\Debug\Araba_Sinif_Ornegi.pdb
+C:\Users\Samet Talha\source\repos\Araba_Sinif_Ornegi\Araba_Sinif_Ornegi\obj\Debug\Araba_Sinif_Ornegi.csproj.AssemblyReference.cache
+C:\Users\Samet Talha\source\repos\Araba_Sinif_Ornegi\Araba_Sinif_Ornegi\obj\Debug\Araba_Sinif_Ornegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samet Talha\source\repos\Araba_Sinif_Ornegi\Araba_Sinif_Ornegi\obj\Debug\Araba_Sinif_Ornegi.csproj.CoreCompileInputs.cache
+C:\Users\Samet Talha\source\repos\Araba_Sinif_Ornegi\Araba_Sinif_Ornegi\obj\Debug\Araba_Sinif_Ornegi.exe
+C:\Users\Samet Talha\source\repos\Araba_Sinif_Ornegi\Araba_Sinif_Ornegi\obj\Debug\Araba_Sinif_Ornegi.pdb
